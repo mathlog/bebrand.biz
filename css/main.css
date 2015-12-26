@@ -206,7 +206,7 @@ width: 11px;
 .search-form > #search {
   background-color: transparent;
   height: 40px;
-    border: 0 ;
+    border: 100;
   margin-top: 28px;
   width: 100%;
 }
